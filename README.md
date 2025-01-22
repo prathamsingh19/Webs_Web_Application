@@ -1,4 +1,4 @@
-# Webs Social Media Web App 🤳🏼
+# Webs - Social Media Web App 🤳🏼
 
 Introducing **Webs**, a lightweight clone of Threads, designed for seamless social interactions. This project replicates the core features of the Threads platform, offering a similar user experience with a focus on clean design, performance, and scalability. Perfect for those looking to explore or contribute to building social networking platforms.
 
